@@ -1,3 +1,5 @@
+// @ts-check
+
 (() => {
   function createCodesandboxElement() {
     const codesandboxSvg = `
