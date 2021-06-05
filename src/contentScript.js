@@ -53,7 +53,7 @@
   function createStackBlitzElement() {
     const stackBlitzSvg = `<svg width="16" height="16" viewBox="0 0 32 32" class="octicon octicon-file-zip mr-3"><path fill="#1389FD" d="M5.853 18.647h8.735L9.45 31l16.697-17.647h-8.735L22.55 1 5.853 18.647z"></path></svg>`;
 
-    const stackBlitzUrl = `https://stackblitz.com/github/${window.location.pathname}`;
+    const stackBlitzUrl = `https://stackblitz.com/github${window.location.pathname}`;
 
     const linkElement = `
    <a class="d-flex flex-items-center color-text-primary text-bold no-underline p-3" href="${stackBlitzUrl}">
