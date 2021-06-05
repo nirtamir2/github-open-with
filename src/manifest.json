@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "version": "0.0.1",
   "name": "Github Open With",
+  "version": "0.0.1",
   "description": "Open your Github repository with 3rd party web IDEs",
   "author": "Nir Tamir",
-  "license": "MIT",
   "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+  "homepage_url": "https://github.com/nirtamir2/github-open-with",
   "content_scripts": [
     {
       "matches": ["http://*.github.com/*/*", "https://*.github.com/*/*"],
