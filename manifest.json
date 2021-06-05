@@ -1,5 +1,5 @@
 {
-  "name": "My extension",
+  "name": "Github Open With",
   "manifest_version": 3,
   "version": "0.0.1",
   "content_scripts": [
@@ -8,5 +8,6 @@
       "all_frames": true,
       "js": ["contentScript.js"]
     }
-  ]
+  ],
+  "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" }
 }

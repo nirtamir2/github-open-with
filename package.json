@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "web-ext run -s . --target chromium --start-url 'https://github.com/nirtamir2/stats-preview-card-component'"
+  },
   "devDependencies": {
     "@types/chrome": "^0.0.141",
     "prettier": "^2.3.0",
