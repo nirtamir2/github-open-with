@@ -3,3 +3,5 @@
 # Github Open With
 
 This Chrome Extension allows you to open Github repositories easily in 3rd party web IDEs.
+
+![Image](./extension-demo.png)
