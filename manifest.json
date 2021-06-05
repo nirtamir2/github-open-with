@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "version": "0.0.1",
   "name": "Github Open With",
-  "description": "Open you Github repository with Github1s, CodeSandbox or StackBlitz",
+  "description": "Open your Github repository with 3rd party web IDEs",
   "author": "Nir Tamir",
   "license": "MIT",
   "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
