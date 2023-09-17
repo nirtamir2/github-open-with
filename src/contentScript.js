@@ -148,7 +148,7 @@ color: black
 
   function addElements() {
     const element = document.querySelector(
-      '[data-target="get-repo.modal"] ul li'
+      '[data-target="get-repo.modal"] #local-panel ul li:last-of-type'
     );
 
     if (!element) {
