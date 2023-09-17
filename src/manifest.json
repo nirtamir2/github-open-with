@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Github Open With",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Open your Github repository with 3rd party web IDEs",
   "author": "Nir Tamir",
   "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
